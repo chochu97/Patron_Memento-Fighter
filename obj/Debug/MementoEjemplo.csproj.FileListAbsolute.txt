@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\bin\Debug\MementoEjemplo.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\bin\Debug\MementoEjemplo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\bin\Debug\MementoEjemplo.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\bin\Debug\Entitades.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\bin\Debug\Entitades.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\obj\Debug\MementoEjemplo.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\obj\Debug\MementoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\obj\Debug\MementoE.0DAFF5D7.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\obj\Debug\MementoEjemplo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\MementoPatron\MementoEjemplo\obj\Debug\MementoEjemplo.pdb

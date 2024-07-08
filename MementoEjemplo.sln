@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoEjemplo", "MementoEjemplo.csproj", "{72041DB5-BDD4-43B4-97F6-E52D5F0C96D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitades", "Entitades\Entitades.csproj", "{CADDBB39-F8F5-4F39-8267-774708786E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72041DB5-BDD4-43B4-97F6-E52D5F0C96D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72041DB5-BDD4-43B4-97F6-E52D5F0C96D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72041DB5-BDD4-43B4-97F6-E52D5F0C96D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72041DB5-BDD4-43B4-97F6-E52D5F0C96D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADDBB39-F8F5-4F39-8267-774708786E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADDBB39-F8F5-4F39-8267-774708786E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADDBB39-F8F5-4F39-8267-774708786E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADDBB39-F8F5-4F39-8267-774708786E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C375F035-E138-4F52-988A-32B6B101F8D7}
+	EndGlobalSection
+EndGlobal
